@@ -2,4 +2,5 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ACME SA"
     id="934ca19c-3559-4442-9c94-bef69f15b264"
+    purpose="Documentar los artefactos de  arquitectura empresarial para la empresa ACME SA, los artefactos y roles corresponden a: &#xD;&#xA;Dominio Procesos ---> Rol Arquitecto de Procesos&#xD;&#xA;Dominio Información ---> Rol Arquitecto de Informacion&#xD;&#xA;Dominio Aplicaciones ---> Rol Arquitecto de Aplicaciones&#xD;&#xA;Dominio Infraestructura ---> Rol Arquitecto de Infraestructura"
     version="4.6.0"/>
